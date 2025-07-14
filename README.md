@@ -20,4 +20,4 @@ This project analyzes the Covid-19 situation of Italy using real-world data
 - Total deaths remained significantly lower than the total cases, showing the impact of healthcare and vaccination over time
 
 ## Dataset source
--[Our World in Data - COVID-19 Dataset](https://ourworldindata.org/data/owid-covid-data.csv)
+-[Our World in Data - COVID-19 Dataset](https://ourworldindata.org/coronavirus)
